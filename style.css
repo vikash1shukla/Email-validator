@@ -62,11 +62,11 @@
  }
 
  input[type='text']{
-   min-width: 19vw;
+   min-width: 17vw;
    padding: 3px 12px;
    border: 2px solid black;
    border-radius: 4px;
-   font-size: 17px;
+   font-size: 15px;
  }
 
  .btn{
